@@ -3,8 +3,8 @@
 
 int main(void)
 {
-    int a, s= 0;
-    scanf("%d",&a);
+    double a= 2.1, s= 0;
+
 
     for ( int i = 1; i < 5; i++ )
     {
@@ -12,8 +12,7 @@ int main(void)
 
     }
 
-    printf("%d\n", s);
-
+    printf("%f\n", s);
     return 0;
 }
 
