@@ -13,6 +13,10 @@ int main(void)
     }
 
     printf("%f\n", s);
+<<<<<<< HEAD
+=======
+
+>>>>>>> 5343dee3d269d23543b022e484ab055239f533ab
     return 0;
 }
 
